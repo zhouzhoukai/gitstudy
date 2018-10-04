@@ -1,9 +1,12 @@
 hello i am coming here.
 hheehhhe
 edit one time
-<<<<<<< HEAD
-提交一次
-=======
 not laster version updated.
 git-commit
->>>>>>> 69fd6f730a38cddfbf9d7b1c9515f7ae874e8bcc
+commit once
+aaaaa
+abcdefjhijklmnopqrstuvwxyz
+adadadadadada
+tijiaodaima
+hello test 
+hello test1
